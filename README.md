@@ -1,27 +1,234 @@
-# 💫 About Me:
-💻 Data Analyst | Software Developer | Tech Enthusiast<br>Data Analyst intern experience working with Python, SQL, Pandas, NumPy & Excel<br>🌐 Skilled in HTML, CSS, JavaScript, PHP development<br>🛢️ Experienced with MySQL & database design<br>🤖 Built ML-based tools like Spam Detection and Movie Rating Predictor<br>🧠 Strong foundation in C, C++, and Data Structures<br>🌱 Currently learning: Advanced Data Analytics & Backend Development<br>🎯 Goal: Become a Data Scientist / Data Consultant<br>I’m a detail-oriented tech learner passionate about Data Analysis, Web Development, and Software Engineering. I love solving real-world problems through clean logic, structured data, and practical applications. Always exploring new tools and technologies to sharpen my craft.
+<h1 align="center">Hi 👋, I'm Divyaksh Soni</h1>
 
+<h3 align="center">
+Full Stack Developer | AI Enthusiast | MCA Student | Building Scalable Digital Solutions
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ft.dev1209) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyaksh-soni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devsoni1209@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DivyakshSoni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DivyakshSoni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyakshSoni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DivyakshSoni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DivyakshSoni&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+Passionate about solving real-world problems through software engineering, AI, automation, and data-driven applications.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DivyakshSoni&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 MCA Student at University of Mumbai
+
+💻 Full Stack Developer specializing in modern web applications
+
+🤖 Interested in Artificial Intelligence, Machine Learning & Automation
+
+🚀 Built multiple live client projects and AI-powered platforms
+
+🏆 Hackathon Winner • Technical Lead • Project Leader
+
+🌱 Currently exploring
+
+- Generative AI
+- Agentic AI Systems
+- Cloud Computing
+- Scalable Backend Systems
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Python
+- JavaScript
+- Java
+- PHP
+- SQL
+
+### Frontend
+
+- React.js
+- HTML5
+- CSS3
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+### Databases
+
+- MySQL
+- PostgreSQL
+- Supabase
+
+### Tools & Technologies
+
+- Git
+- GitHub
+- Pandas
+- NumPy
+- Azure Fundamentals
+- VS Code
+- Postman
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡 SentinelAI
+
+AI Powered Digital Safety Platform that protects users from
+
+- Phishing Websites
+- Fake Currency Detection
+- AI Voice Scam Detection
+- Malicious File Detection
+- QR Fraud Detection
+- Online Scam Detection
+
+**Tech**
+
+React • Node.js • AI APIs • Machine Learning
+
+---
+
+## 📄 AI Resume & Professional Profile Analyzer
+
+An intelligent platform that
+
+- Analyzes resumes using AI
+- Performs Skill Gap Analysis
+- Generates Resume Scores
+- Matches candidates with job roles
+- Uses NLP for profile evaluation
+
+---
+
+## 🏢 Integrated Operations Management Portal
+
+Enterprise workflow automation platform
+
+Features
+
+- Purchase Orders
+- Inventory Management
+- Billing
+- Reporting
+- Role Based Access Control
+- Admin Dashboard
+
+---
+
+## 🚗 OldTimers
+
+Vintage Car Booking & Operations Platform
+
+Features
+
+- Online Booking
+- Approval Workflow
+- Schedule Management
+- Client Dashboard
+- Admin Panel
+
+---
+
+## 🏋 FitPro
+
+Fitness Studio Management System
+
+- Membership Management
+- Attendance Tracking
+- Payment Management
+- Class Scheduling
+
+---
+
+## 🏥 GramAarogya
+
+Healthcare Management System
+
+Features
+
+- Patient Registration
+- Medical Records
+- Health Tracking
+- Healthcare Workflow Automation
+
+🏆 Awarded **Best Use of Technology**
+
+---
+
+# 🏆 Achievements
+
+🥇 Winner — Best Use of Technology (UAI Hackathon)
+
+🎯 Selected for AICTE IDE Bootcamp
+
+👨‍💻 Technical Lead
+Innovation & Startup Development Club
+
+🎖 Mr. Fresher 2025
+
+🏸 State Champion — Badminton
+
+🏀 State Level Basketball Captain
+
+---
+
+# 📜 Certifications
+
+- IBM Big Data Foundations
+- AWS Solutions Architecture Virtual Experience
+- Google Responsible AI
+- Google Analytics Certification
+- Tata Data Visualization
+- JP Morgan Software Engineering
+- Accenture Data Analytics
+- HP Data Science & Analytics
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DivyakshSoni&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyakshSoni&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyakshSoni&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email
+
+devsoni1209@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/divyaksh-soni
+
+🌍 Portfolio
+
+https://divyakshsoni.in
+
+💻 GitHub
+
+https://github.com/DivyakshSoni
+
+---
+
+## 💡 Quote
+
+> "Great software isn't just written—it solves meaningful problems."
